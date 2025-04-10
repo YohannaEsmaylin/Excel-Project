@@ -18,8 +18,9 @@ An Excel-based dashboard with filters for dynamic exploration of the data.
 
 5-Conclusion & Recommendations
 Data-driven business insights to support marketing and operational decisions.
-# Data vizualization and Dashboard
-[
+# Data visualization and Dashboard
+# Product Sale Perfomance
+![image alt](https://github.com/YohannaEsmaylin/Excel-Project/blob/85794bbbca504233e7b52cac19027be37200afb2/Screenshot%202025-04-10%20at%2013.34.01.png)
 
 # 🧰 Tools Used #
 Microsoft Excel
