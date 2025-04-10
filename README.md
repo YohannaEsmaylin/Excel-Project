@@ -28,6 +28,9 @@ Data-driven business insights to support marketing and operational decisions.
 # The average purchase behaviour by gender
 
 ![image alt](https://github.com/YohannaEsmaylin/Excel-Project/blob/a2dc13b60869f5cb98964524f11df226dfa51559/Screenshot%202025-04-10%20at%2013.34.57.png)
+# Dashboard
+
+![image alt](https://github.com/YohannaEsmaylin/Excel-Project/blob/cfe33004443816e8da06004092b49b484a85b5d8/Screenshot%202025-04-10%20at%2013.35.17.png)
 
 # 🧰 Tools Used #
 Microsoft Excel
