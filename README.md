@@ -20,11 +20,15 @@ An Excel-based dashboard with filters for dynamic exploration of the data.
 Data-driven business insights to support marketing and operational decisions.
 # Data visualization and Dashboard
 # Product Sale Perfomance
+
 ![image alt](https://github.com/YohannaEsmaylin/Excel-Project/blob/85794bbbca504233e7b52cac19027be37200afb2/Screenshot%202025-04-10%20at%2013.34.01.png)
 # Customer Typer and Their Contribution to Total Sales
-![image alt] (https://github.com/YohannaEsmaylin/Excel-Project/blob/a75ab9aa67d14f8f2fadf0cbf8f459cae7d7e4ce/Screenshot%202025-04-10%20at%2013.34.28.png)
+
+![image alt](https://github.com/YohannaEsmaylin/Excel-Project/blob/a75ab9aa67d14f8f2fadf0cbf8f459cae7d7e4ce/Screenshot%202025-04-10%20at%2013.34.28.png)
 # The average purchase behaviour by gender
-![image alt]
+
+![image alt](https://github.com/YohannaEsmaylin/Excel-Project/blob/a2dc13b60869f5cb98964524f11df226dfa51559/Screenshot%202025-04-10%20at%2013.34.57.png)
+
 # 🧰 Tools Used #
 Microsoft Excel
 
